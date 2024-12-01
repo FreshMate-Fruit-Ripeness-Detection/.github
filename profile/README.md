@@ -1,0 +1,76 @@
+# FreshMate - Capstone Project Bangkit Team C242-PS007
+
+## Overview
+
+isi informasi
+
+![Mockups](link mockup.png)
+
+
+## Motivation
+
+isi informasi
+
+## Project Scope
+
+The primary objective of this project is to develop a fruit classification system with the following features:
+- isi informasi
+- isi informasi
+- isi informasi
+- isi informasi
+
+## Technology Stack
+
+### Machine Learning
+- Framework: TensorFlow
+- Architecture: Convolutional Neural Networks (CNN), using a pre-trained ResNet50 model
+- Programming Language: Python
+- Development Environment: Google Colab & Jupyter Notebook
+
+### Android Development
+- Design Tool: Figma
+- Programming Language: isi informasi
+- Networking: isi informasi
+
+### Cloud
+- Cloud Provider: isi informasi
+- Prgramming Language: Isi informasi
+- Backend Support: isi informasi
+
+## Dataset
+
+The dataset used for training the model is sourced from a public URL on our Google Cloud Platform: [Dataset](link dataset.zip). 
+
+## Implementation
+
+isi informasi
+
+## Future Enhancements
+
+Future enhancements may include:
+- isi informasi
+- isi informasi
+- isi informasi
+- isi informasi
+- isi informasi
+
+## Team Members
+
+| ID           | Name                            | Institution                              | Role                                 | Status  |
+|--------------|---------------------------------|------------------------------------------|--------------------------------------|---------|
+| A133B4KY2273 | Lilo Puji Pratama               | Politeknik Negeri Samarinda              | Project Manager & Mobile Development | Active  |
+| A420B4KY3398 | Nouval Zaki                     | STMIK Widya Cipta Dharma                 | Mobile Development                   | Active  |
+| M271B4KY1187 | Dudi Nurdiyansah                | Universitas Multimedia Nusantara Jakarta | Machine Learning                     | Active  |
+| M271B4KY3981 | Ryan Ferdinand Andyson          | Universitas Multimedia Nusantara Jakarta | Machine Learning                     | Active  |
+| M322B4KY2442 | Maulida Kiatuddin               | Universitas Syiah Kuala                  | Machine Learning                     | Active  |
+| C420B4KY3069 | Muhammad Rizky Wijaya           | STMIK Widya Cipta Dharma                 | Cloud Computing                      | Active  |
+| C137B4KY3092 | Muhammad Surya Wijaya           | Politeknik Pertanian Negeri Samarinda    | Cloud Computing                      | Active  |
+
+## Conclusion
+
+isi informasi
+
+## Contact
+
+For more information, please contact:
+- [nama](email)
