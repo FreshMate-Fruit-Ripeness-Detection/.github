@@ -68,7 +68,7 @@ Future enhancements may include:
 
 ## Conclusion
 
-isi informasi
+This project is a strategic step toward using machine learning to tackle food waste in the agriculture industry and the fruit supply chain. We hope to reduce food waste by delivering accurate predictions of fruit ripeness while removing the uncertainty associated with determining fruit ripeness.
 
 ## Contact
 
