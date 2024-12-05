@@ -73,4 +73,4 @@ isi informasi
 ## Contact
 
 For more information, please contact:
-- [nama](email)
+- [Lilo Puji Pratama](lilopratamaa@gmail.com)
