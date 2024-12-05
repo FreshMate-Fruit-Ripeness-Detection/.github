@@ -13,8 +13,8 @@ Fruit waste is frequently caused by incorrectly classifying fruit ripeness durin
 
 ## Project Scope
 
-The primary objective of this project is to develop a fruit classification system with the following features:
-- isi informasi
+The primary objective of this project is to develop a fruit ripeness classification system with the following features:
+- Image Classification: The model is designed to classify fruit ripeness in images uploaded by users into three categories: unripe, ripe, or rotten.
 - isi informasi
 - isi informasi
 - isi informasi
@@ -39,7 +39,7 @@ The primary objective of this project is to develop a fruit classification syste
 
 ## Dataset
 
-The dataset used for training the model is sourced from a public URL on our Google Cloud Platform: [Dataset](link dataset.zip). 
+The dataset used to train the model was obtained from a public URL hosted on our Google Cloud Platform: [Dataset](link dataset.zip). 
 
 ## Implementation
 
@@ -48,9 +48,13 @@ The system aims to create technology that can capture photos of fruit, process t
 ## Future Enhancements
 
 Future enhancements may include:
-- isi informasi
-- isi informasi
-- isi informasi
+- Dataset Addition with Fruit Types: Adding multiple types of fruits to the dataset enhances data diversity while also assuring that the model can recognize more categories of fruits with greater accuracy.
+- Fruit Health Analysis: In addition to recognizing ripeness and spoiling levels, the model can detect fruit health issues such as the presence of illness or damage.
+- Action Recommendation Feature: Included features that offer specific advice for each fruit group, such as:
+  - Unripe: Storage guidance until the fruit reaches the optimal ripeness level.
+  - Tidak matang: Tips penyimpanan hingga matang.
+  - Ripe: Recommendations on the best time to consume or sell.
+  - Rotten: Advice on recycling options or proper disposal methods.
 - isi informasi
 - isi informasi
 
