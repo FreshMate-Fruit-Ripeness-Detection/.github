@@ -9,7 +9,7 @@ This project intends to help fruit farmers, fruit sellers, and consumers determi
 
 ## Motivation
 
-isi informasi
+Fruit waste is frequently caused by incorrectly classifying fruit ripeness during the sorting and grading process. Incorrect evaluations can result in the premature dumping of underripe or overripe fruits, amounting to significant food waste. Using visual analysis of photographs, our model is intended to assist users in determining the ripeness category of fruits, such as unripe, ripe, or rotten.
 
 ## Project Scope
 
