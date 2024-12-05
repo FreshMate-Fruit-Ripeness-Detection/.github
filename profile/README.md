@@ -2,14 +2,14 @@
 
 ## Overview
 
-This project intends to help fruit farmers, fruit sellers, and consumers determine fruit quality by creating a machine-learning model that can classify fruits ripeness into three categories: "unripe," "ripe," and "rotten." The classification procedure uses a Convolutional Neural Network (CNN) architecture with a pre-trained ResNet50 model implemented with TensorFlow and other related libraries.
+This project intends to help fruit farmers, fruit sellers, and consumers determine fruit quality by creating a machine-learning model that can classify fruit ripeness into three categories: "unripe," "ripe," and "rotten." The classification procedure uses a Convolutional Neural Network (CNN) architecture with a pre-trained ResNet50 model implemented with TensorFlow and other related libraries.
 
 ![Mockups](link mockup.png)
 
 
 ## Motivation
 
-Fruit waste is frequently caused by incorrectly classifying fruit ripeness during the sorting and grading process. Incorrect evaluations can result in the premature dumping of underripe or overripe fruits, amounting to significant food waste. Using visual analysis of photographs, our model is intended to assist users in determining the ripeness category of fruits, such as unripe, ripe, or rotten.
+Fruit waste is frequently caused by incorrectly classifying fruit ripeness during the sorting and grading process. Incorrect evaluations can result in the premature dumping of underripe or overripe fruits, amounting to significant food waste. Using visual analysis of image, our model is intended to assist users in determining the ripeness category of fruits, such as unripe, ripe, or rotten.
 
 ## Project Scope
 
