@@ -43,7 +43,7 @@ The dataset used for training the model is sourced from a public URL on our Goog
 
 ## Implementation
 
-isi informasi
+The system aims to create technology that can capture photos of fruit, process them with a trained CNN model, and then predict whether the fruit is unripe, ripe, or rotten. An Android app with a Google Cloud backend will deliver real-time predictions and updates.
 
 ## Future Enhancements
 
