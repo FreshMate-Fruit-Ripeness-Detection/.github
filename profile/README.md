@@ -52,7 +52,6 @@ Future enhancements may include:
 - Fruit Health Analysis: In addition to recognizing ripeness and spoiling levels, the model can detect fruit health issues such as the presence of illness or damage.
 - Action Recommendation Feature: Included features that offer specific advice for each fruit group, such as:
   - Unripe: Storage guidance until the fruit reaches the optimal ripeness level.
-  - Tidak matang: Tips penyimpanan hingga matang.
   - Ripe: Recommendations on the best time to consume or sell.
   - Rotten: Advice on recycling options or proper disposal methods.
 - isi informasi
