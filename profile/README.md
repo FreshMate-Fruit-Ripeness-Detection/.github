@@ -29,8 +29,8 @@ The primary objective of this project is to develop a fruit ripeness classificat
 
 ### Android Development
 - Design Tool: Figma
-- Programming Language: isi informasi
-- Networking: isi informasi
+- Programming Language: Kotlin
+- Networking: Retrofit
 
 ### Cloud
 - Cloud Provider: isi informasi
@@ -72,8 +72,3 @@ Future enhancements may include:
 ## Conclusion
 
 This project is a strategic step toward using machine learning to address food waste within the agriculture sector, specifically in the fruit supply chain. Our goal is to minimize food waste by providing precise predictions of fruit ripeness, eliminating the uncertainty that often comes with assessing whether fruit is ripe or not.
-
-## Contact
-
-For more information, please contact:
-- [Lilo Puji Pratama](lilopratamaa@gmail.com)
