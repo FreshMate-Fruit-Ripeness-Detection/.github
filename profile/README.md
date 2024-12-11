@@ -31,6 +31,10 @@ The primary objective of this project is to develop a fruit ripeness classificat
 - Design Tool: Figma
 - Programming Language: Kotlin
 - Networking: Retrofit
+- Architecture Application : MVVM (Model - View - View Model).
+
+### Download Application
+
 
 ### Cloud
 - Cloud Provider: Google Cloud
