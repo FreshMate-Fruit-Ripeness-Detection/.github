@@ -56,8 +56,6 @@ Future enhancements may include:
   - Unripe: Storage guidance until the fruit reaches the optimal ripeness level.
   - Ripe: Recommendations on the best time to consume or sell.
   - Rotten: Advice on recycling options or proper disposal methods.
-- isi informasi
-- isi informasi
 
 ## Team Members
 
