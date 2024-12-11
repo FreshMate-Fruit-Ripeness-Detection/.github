@@ -32,9 +32,8 @@ The primary objective of this project is to develop a fruit ripeness classificat
 - Programming Language: Kotlin
 - Networking: Retrofit
 - Architecture Application : MVVM (Model - View - View Model).
-
-### Download Application
-
+- Development Tools : Android Studio
+- Layouting : XML
 
 ### Cloud
 - Cloud Provider: Google Cloud
