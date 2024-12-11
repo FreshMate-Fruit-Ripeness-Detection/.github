@@ -33,9 +33,9 @@ The primary objective of this project is to develop a fruit ripeness classificat
 - Networking: Retrofit
 
 ### Cloud
-- Cloud Provider: isi informasi
-- Prgramming Language: Isi informasi
-- Backend Support: isi informasi
+- Cloud Provider: Google Cloud
+- Prgramming Language: PHP With Framework Laravel And Python For Machine Learning Services
+- Backend Support: Server We Use a Compute Engine for deploy a laravel and building a API, For the python services we use a cloud run to running a uvicorn server, For the database we using mysql in compute engine same with a laravel server, for the save a photo, we using a cloud storage bucket
 
 ## Dataset
 
