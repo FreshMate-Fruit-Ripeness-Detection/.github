@@ -14,10 +14,9 @@ Fruit waste is frequently caused by incorrectly classifying fruit ripeness durin
 ## Project Scope
 
 The primary objective of this project is to develop a fruit ripeness classification system with the following features:
-- Image Classification: The model is designed to classify fruit ripeness in images uploaded by users into three categories: unripe, ripe, or rotten.
-- isi informasi
-- isi informasi
-- isi informasi
+- The model is designed to classify fruit ripeness in images uploaded by users into three categories: unripe, ripe, or rotten.
+- Provide users with detailed nutritional information for each identified fruit, such as vitamins and minerals.
+- Integrate a user-friendly interface where users can upload a fruit photo and instantly receive ripeness status.
 
 ## Technology Stack
 
@@ -42,7 +41,7 @@ The primary objective of this project is to develop a fruit ripeness classificat
 - This is the link project https://github.com/FreshMate-Fruit-Ripeness-Detection/api"
 ## Dataset
 
-The dataset used to train the model was obtained from a public URL hosted on our Google Cloud Platform: [Dataset](link dataset.zip). 
+The dataset used to train the model was obtained through image scraping, uploaded to Kaggle, and then downloaded from a public Kaggle URL. [Dataset](https://www.kaggle.com/datasets/dudinurdiyansah/fruit-ripeness-classifier). 
 
 ## Implementation
 
@@ -52,7 +51,7 @@ The system aims to create technology that can capture photos of fruit, process t
 
 Future enhancements may include:
 - Dataset Addition with Fruit Types: Adding multiple types of fruits to the dataset enhances data diversity while also assuring that the model can recognize more categories of fruits with greater accuracy.
-- Fruit Health Analysis: In addition to recognizing ripeness and spoiling levels, the model can detect fruit health issues such as the presence of illness or damage.
+- Fruit Health Analysis: Besides recognizing ripeness and spoiling levels, the model can detect fruit health issues such as illness or damage.
 - Action Recommendation Feature: Included features that offer specific advice for each fruit group, such as:
   - Unripe: Storage guidance until the fruit reaches the optimal ripeness level.
   - Ripe: Recommendations on the best time to consume or sell.
