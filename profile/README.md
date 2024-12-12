@@ -4,7 +4,7 @@
 
 This project intends to help users determine fruit quality by creating a machine-learning model that can classify fruit ripeness into three categories: "unripe," "ripe," and "rotten." The classification procedure uses a Convolutional Neural Network (CNN) architecture with a pre-trained ResNet50 model implemented with TensorFlow and other related libraries.
 
-![Mockups](.github/mockup.png)
+![Mockups](https://github.com/FreshMate-Fruit-Ripeness-Detection/.github/blob/46529c97d572c11ea9b7334fdb3d4e434c187158/mockup.png)
 
 
 ## Motivation
