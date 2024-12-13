@@ -42,7 +42,7 @@ The primary objective of this project is to develop a fruit ripeness classificat
 - This is the link project https://github.com/FreshMate-Fruit-Ripeness-Detection/api"
 
 ## Download APK
-[FreshMate Apk]..()
+[FreshMate Apk](https://drive.google.com/file/d/1H1njbp5qnrRazZy04MKytwdVlH9-Y7UR/view?usp=sharing)
 
 
 ## Dataset
