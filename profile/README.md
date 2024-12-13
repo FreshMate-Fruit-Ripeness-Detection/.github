@@ -36,8 +36,9 @@ The primary objective of this project is to develop a fruit ripeness classificat
 
 ### Cloud
 - Cloud Provider: Google Cloud
-- Prgramming Language: PHP With Framework Laravel And Python For Machine Learning Services
+- Programming Language: PHP With Framework Laravel And Python For Machine Learning Services
 - Backend Support: Server We Use a Compute Engine for deploy a laravel and building a API, For the python services we use a cloud run to running a uvicorn server, For the database we using mysql in compute engine same with a laravel server, for the save a photo, we using a cloud storage bucket
+- To deploy our Machine Learning model, we use Cloud Run and FastAPI for the model API.
 - This is the link project https://github.com/FreshMate-Fruit-Ripeness-Detection/api"
 
 ## Download APK
